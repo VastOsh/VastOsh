@@ -52,7 +52,7 @@
 
 ## CyberTraining
 
-> **Top 4%** TryHackMe : currently ranked **#86,000** globally
+> **Top 4%** TryHackMe : currently ranked **< 80,000** globally
 
 ---
 
