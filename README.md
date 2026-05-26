@@ -2,7 +2,7 @@
 
 # ░▒▓ VastOsh ▓▒░
 
-**IT Student · Chief of Project — Infrastructure & Cybersecurity**
+**IT Student · Chief of Project - Infrastructure & Cybersecurity**
 
 *Passionate about cybersecurity, defense, cryptography, Web3 and emerging technologies.*
 
@@ -50,9 +50,9 @@
 
 ---
 
-## TryHackMe
+## CyberTraining
 
-> **Top 4%** — currently ranked **#86,000** globally
+> **Top 4%** TryHackMe : currently ranked **#86,000** globally
 
 ---
 
