@@ -49,11 +49,15 @@
 ![TryHackMe Cyber Security 101](https://img.shields.io/badge/TryHackMe_Cyber_Security_101-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 
 ---
+<div align="center">
 
-## CyberTraining
+# ░▒▓ TryHackMe ▓▒░
 
-> **Top 4%** TryHackMe : currently ranked **< 75,000** globally
-> **Rank 3 400** TryHackMe France 
+**Top 4% world** ~ Rank 75 000.
+
+**Rank 3 400** France
+
+</div>
 
 ---
 
