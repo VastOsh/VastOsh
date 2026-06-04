@@ -53,7 +53,7 @@
 
 # ░▒▓ TryHackMe ▓▒░
 
-**Top 4% world** ~ Rank 67 000.
+**Top 3% world** ~ Rank 54 000.
 
 ~ **Rank 3 000** France.
 
