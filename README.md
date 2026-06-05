@@ -2,7 +2,7 @@
 
 # ░▒▓ VastOsh ▓▒░
 
-**IT Student · Chief of Project - Infrastructure & Cybersecurity**
+**IT Student · Chief of Project · Infrastructure & Cybersecurity**
 
 *Passionate about cybersecurity, defense, cryptography, Web3 and emerging technologies.*
 
