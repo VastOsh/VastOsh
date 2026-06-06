@@ -53,9 +53,9 @@
 
 # ░▒▓ TryHackMe ▓▒░
 
-**Top 3% world** ~ Rank 48 000.
+**Top 2% world** ~ Rank 47 000.
 
-~ **Rank 2 190** France.
+~ **Rank 2 136** France.
 
 </div>
 
@@ -63,7 +63,7 @@
 
 ## Current Project
 
-**[TxTranslator](https://github.com/VastOsh/TxTranslator)** — A transaction translator built for the Injective ecosystem.
+**[TxTranslator](https://github.com/VastOsh/TxTranslator)** : A transaction translator built for the Injective ecosystem.
 
 ---
 
