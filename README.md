@@ -53,9 +53,11 @@
 
 # ░▒▓ TryHackMe ▓▒░
 
-**Top 2% world** ~ Rank 47 000.
+**Top 2% world** ~ Rank 39 000.
 
-~ **Rank 2 136** France.
+~ **Rank 1 804** France.
+
+~ **167 Rooms Completed.**
 
 </div>
 
