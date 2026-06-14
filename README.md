@@ -66,6 +66,7 @@
 ## Current Project
 
 **[TxTranslator](https://github.com/VastOsh/TxTranslator)** : A transaction translator built for the Injective ecosystem.
+
 **[InjCup](https://github.com/VastOsh/InjWorldCup)** : A prediction website for the 2026 Football World Cup.
 
 ---
